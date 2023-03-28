@@ -271,7 +271,7 @@ main {
 
 .random-btn {
   margin-top: 0.5rem;
-  background: var(--clr-primary-10);
+  background-color: var(--clr-primary-10);
   color: var(--clr-primary-5);
   padding: 0.25rem 0.5rem;
   text-transform: capitalize;
