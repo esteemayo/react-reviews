@@ -52,7 +52,7 @@ const Review = () => {
         <button onClick={handlePrevPerson} className='prev-btn'>
           <FaChevronLeft />
         </button>
-        <button onClick={handleNextPerson} className="next-btn">
+        <button onClick={handleNextPerson} className='next-btn'>
           <FaChevronRight />
         </button>
       </div>
