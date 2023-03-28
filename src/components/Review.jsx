@@ -45,11 +45,11 @@ const Review = () => {
           <FaQuoteRight />
         </span>
       </div>
-      <h4 className="author">{name}</h4>
-      <p className="job">{job}</p>
-      <p className="info">{text}</p>
-      <div className="button-container">
-        <button onClick={handlePrevPerson} className="prev-btn">
+      <h4 className='author'>{name}</h4>
+      <p className='job'>{job}</p>
+      <p className='info'>{text}</p>
+      <div className='button-container'>
+        <button onClick={handlePrevPerson} className='prev-btn'>
           <FaChevronLeft />
         </button>
         <button onClick={handleNextPerson} className="next-btn">
