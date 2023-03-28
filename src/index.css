@@ -257,7 +257,7 @@ main {
 .next-btn {
   color: var(--clr-primary-7);
   font-size: 1.25rem;
-  background: transparent;
+  background-color: transparent;
   border-color: transparent;
   margin: 0 0.5rem;
   transition: var(--transition);
