@@ -1,7 +1,5 @@
 import Review from 'components/Review';
 
-import './App.css';
-
 function App() {
   return (
     <main>
