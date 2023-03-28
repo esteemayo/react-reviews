@@ -28,8 +28,8 @@ const reviews = [
   },
   {
     id: 4,
-    name: "bill anderson",
-    job: "the boss",
+    name: 'bill anderson',
+    job: 'the boss',
     image:
       "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg",
     text:
