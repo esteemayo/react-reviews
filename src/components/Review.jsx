@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { FaChevronLeft, FaChevronRight, FaQuoteRight } from 'react-icons/fa';
 
-import people from 'reviewService';
+import people from 'data';
 
 const Review = () => {
   const [index, setIndex] = useState(0);
