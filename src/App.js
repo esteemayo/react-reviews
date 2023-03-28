@@ -1,6 +1,6 @@
 import Review from './components/Review';
 
-import "./App.css";
+import './App.css';
 
 function App() {
   return (
