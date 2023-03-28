@@ -223,7 +223,7 @@ main {
   place-items: center;
   border-radius: 50%;
   transform: translateY(25%);
-  background: var(--clr-primary-5);
+  background-color: var(--clr-primary-5);
   color: var(--clr-white);
 }
 
